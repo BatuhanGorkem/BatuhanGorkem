@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Ecosystem**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and React Native**
 
 - 💬 Ask me about **Frontend Development**
 
